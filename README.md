@@ -1,4 +1,4 @@
-# Improving-Closed-loop-Matters
+# Improving-Closed-loop-Matters(Super Resolution)
 
 [Presentation](https://docs.google.com/presentation/d/1AwdgyuRATms0tHZfOAdPIokXjWx52tRM/edit?usp=sharing&ouid=113730967271079117176&rtpof=true&sd=true)
 
