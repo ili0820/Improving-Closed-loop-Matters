@@ -1,0 +1,14 @@
+python main.py --data_dir srdata --save experiments --data_test Set5 --scale 4 --model DRN-S --pre_train D:\DRN-master\experiments\test\model_best.pt --test_only --save_results
+
+python main.py --data_dir srdata --save experiments --data_test Set14 --scale 4 --model DRN-S --pre_train D:\DRN-master\experiments\test\model_best.pt --test_only --save_results
+
+python main.py --data_dir srdata --save experiments --data_test B100 --scale 4 --model DRN-S --pre_train D:\DRN-master\experiments\test\model_best.pt --test_only --save_results
+
+python main.py --data_dir srdata --save experiments --data_test Urban100 --scale 4 --model DRN-S --pre_train D:\DRN-master\experiments\test\model_best.pt --test_only --save_results
+
+
+
+python main.py --data_dir srdata --scale 4 --model DRN-S --save experiments --batch_size 4
+
+
+python main.py --data_dir srdata --scale 4 --model DRN-S --save experiments --batch_size 4 --lr 9e-4 --epochs 5 --dual_weight 0.50
