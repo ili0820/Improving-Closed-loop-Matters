@@ -3,7 +3,7 @@
 [Presentation](https://docs.google.com/presentation/d/1AwdgyuRATms0tHZfOAdPIokXjWx52tRM/edit?usp=sharing&ouid=113730967271079117176&rtpof=true&sd=true)
 
 ## Goal
-By adding small idea, tryied to improve **Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution(CVPR 2020)** baseline code
+By adding a small idea, tried to improve **Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution(CVPR 2020)** baseline code
 
 ## Overview
 
