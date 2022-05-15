@@ -9,7 +9,7 @@ By adding a small idea, tried to improve **Closed-loop Matters: Dual Regression 
 
 ![제목 없음](https://user-images.githubusercontent.com/65278309/165081476-5481d638-f9df-4d02-89c8-37c01626a3ee.png)
 
-Inspired by SamsungSDS 's solution to [Frequency based detecting Deepfake](https://www.aaai.org/AAAI22Papers/AAAI-1171.JeongY.pdf),<br/><br/>
+Inspired by SamsungSDS 's solution to [FrePGAN: Robust Deepfake Detection Using Frequency-level Perturbations](https://www.aaai.org/AAAI22Papers/AAAI-1171.JeongY.pdf),<br/><br/>
 Images in Frequency domain seems to contain extra infomations that are not in rgb images.<br/><br/>
 Thus I used **images in frequency domain** and rgb images at the sametime to train model for Super Resolution task<br/><br/>
 I simply calcuated new Floss(frequency loss), which is  loss between GT images in frequency doamin and created images in frequency domain<br/><br/>
